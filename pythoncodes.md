@@ -1,5 +1,5 @@
 #PYTHON
-
+'''python
 ##VARIABLES
 name = "musa" ; print(name)     ##musa## 
 x = str(3)
@@ -52,6 +52,7 @@ print(len(name))##14
 name = "Bio\nLab"
 print(name) ##Bio
             ##lab
+'''
 
 
 
